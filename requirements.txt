@@ -1,0 +1,2 @@
+# Requires: circular-impossibility
+# (Not available on PyPI)
